@@ -1,4 +1,4 @@
-#  Data Analytics Platform
+#  SHEETWISE
 
 A robust, scalable Node.js backend application designed for data analytics and Excel file processing. This platform enables users to upload, process, and analyze Excel files with secure authentication and role-based access control.
 
