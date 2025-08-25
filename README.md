@@ -1,10 +1,10 @@
-#  Data Analytics Platform
+#  SHEETWISE
 
 A robust, scalable Node.js backend application designed for data analytics and Excel file processing. This platform enables users to upload, process, and analyze Excel files with secure authentication and role-based access control.
 
 ##  Overview
 
-The Zidio Data Analytics Platform is a comprehensive backend solution that transforms raw Excel data into structured, queryable information. Built with modern technologies and best practices, it provides a secure foundation for data-driven applications.
+The SheetWise Data Analytics Platform is a comprehensive backend solution that transforms raw Excel data into structured, queryable information. Built with modern technologies and best practices, it provides a secure foundation for data-driven applications.
 
 ##  Key Features
 ###  Security & Authentication
